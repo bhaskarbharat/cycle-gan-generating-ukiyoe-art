@@ -1,13 +1,7 @@
 # cycle-gan-generating-ukiyoe-art
 CycleGANs to generate Ukiyo-e Art
 
-[Project Notebook](https://colab.research.google.com/drive/1SljAM52fu1ZmW2LJc3Hoq5PpVAXQPvpM?usp=sharing)
-
-[Project Presentation](https://drive.google.com/file/d/1yYP2Y22v2nWPcPaygBM5MaAWIyR8G_RD/view?usp=sharing)
-
-[Project Poster](https://drive.google.com/file/d/1TVO_Sf3i9OWk3FhskLIWxXRCYyrIkaZY/view?usp=sharing)
-
-[Project Video Presentation](https://drive.google.com/file/d/1QJ79OLgbd-4E5_kyHp9Sebvb1ydVhX5L/view?usp=sharing)
+[Project Notebook](https://colab.research.google.com/drive/1SljAM52fu1ZmW2LJc3Hoq5PpVAXQPvpM?usp=sharing) | [Project Presentation](https://drive.google.com/file/d/1yYP2Y22v2nWPcPaygBM5MaAWIyR8G_RD/view?usp=sharing)  | [Project Poster](https://drive.google.com/file/d/1TVO_Sf3i9OWk3FhskLIWxXRCYyrIkaZY/view?usp=sharing)  | [Project Video Presentation](https://drive.google.com/file/d/1QJ79OLgbd-4E5_kyHp9Sebvb1ydVhX5L/view?usp=sharing)
 
 ## Problem Statement
 
